@@ -209,3 +209,4 @@ R: As credenciais são salvas no Firestore da sua conta Firebase. O PAT e tokens
 **P: Como sei se o webhook está funcionando?**
 R: Veja a aba **Logs** na aplicação. Cada evento processado (sucesso ou erro) é registrado lá com detalhes.
 "# integradorazure" 
+"# azureglpi" 
