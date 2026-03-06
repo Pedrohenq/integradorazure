@@ -21,3 +21,6 @@
 
 [functions]
   node_bundler = "esbuild"
+
+[functions."sync-glpi"]
+  schedule = "*/5 * * * *"
